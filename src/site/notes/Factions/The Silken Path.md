@@ -3,4 +3,4 @@
 ---
 
 
-A criminal organisation run by [[Thar-Vokar/Francesca Vigo\|Francesca Vigo]]. Recently, the Silken Path have been dealing in healing herbs, of all things. More information to come when you encounter them!
+A criminal organisation run by [[Regions and NPCS/Thar-Vokar/Francesca Vigo\|Francesca Vigo]]. Recently, the Silken Path have been dealing in healing herbs, of all things. More information to come when you encounter them!

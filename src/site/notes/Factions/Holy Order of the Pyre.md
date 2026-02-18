@@ -26,9 +26,9 @@ Though all within the Pyre agree that magic is dangerous, divergent approaches t
 Despite their differences, all factions remain in fragile unity under Vaelin Thorne’s command. At least, for now.
 
 ## NPCs- Party-wide knowledge
-[[Nyrrheim/Grandmaster Vaelin Thorne\|Grandmaster Vaelin Thorne]]
-[[Valedorn/Sister Ivara Cael- Voice of the Emberwardens\|Sister Ivara Cael- Voice of the Emberwardens]]
+[[Regions and NPCS/Nyrrheim/Grandmaster Vaelin Thorne\|Grandmaster Vaelin Thorne]]
+[[Regions and NPCS/Valedorn/Sister Ivara Cael- Voice of the Emberwardens\|Sister Ivara Cael- Voice of the Emberwardens]]
 ## NPCs- Penn only
-[[Nyrrheim/Father Rhaegor Nox- High Inquisitor of the Ashen Hand\|Father Rhaegor Nox- High Inquisitor of the Ashen Hand]]
-[[Nyrrheim/Father Garrick Holt- Architect Divine of the Severant Brotherhood\|Father Garrick Holt- Architect Divine of the Severant Brotherhood]]
-[[Nyrrheim/Benedictus Rowan\|Benedictus Rowan]]
+[[Regions and NPCS/Nyrrheim/Father Rhaegor Nox- High Inquisitor of the Ashen Hand\|Father Rhaegor Nox- High Inquisitor of the Ashen Hand]]
+[[Regions and NPCS/Nyrrheim/Father Garrick Holt- Architect Divine of the Severant Brotherhood\|Father Garrick Holt- Architect Divine of the Severant Brotherhood]]
+[[Regions and NPCS/Nyrrheim/Benedictus Rowan\|Benedictus Rowan]]
