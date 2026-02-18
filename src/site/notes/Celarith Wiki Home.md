@@ -7,7 +7,7 @@ Welcome!
 
 # Map
 
-![Celarith with Regions.jpg](/img/user/Celarith%20with%20Regions.jpg)
+![Celarith with Regions.jpg](/img/user/ZZZ-%20Photos/Celarith%20with%20Regions.jpg)
 
 
 

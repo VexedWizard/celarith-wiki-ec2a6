@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/valedorn/king-valo-ix/","created":"2026-02-18T14:28:58.417+00:00","updated":"2026-02-18T14:58:03.789+00:00"}
+{"dg-publish":true,"permalink":"/valedorn/king-valo-ix/","created":"2026-02-18T14:28:58.417+00:00","updated":"2026-02-18T16:45:02.051+00:00"}
 ---
 
 
@@ -9,4 +9,4 @@ The King of Valethwyn, and a shrewd ruler at that, Valo IX invited Penn and Mari
 
 Although of little surprise for a king who is used to ruling mages, it serves as a stark reminder that he is adept in the art of statecraft, and would be a particularly fearsome political enemy.  
 
-One other sighting of the King occurred during your time in Valethwyn to date was a brief overhearing of a meeting between the King and [[Sister Ivara Cael- Voice of the Emberwardens \|Sister Ivara Cael- Voice of the Emberwardens ]]
+One other sighting of the King occurred during your time in Valethwyn to date was a brief overhearing of a meeting between the King and [[Sister Ivara Cael- Voice of the Emberwardens \|Sister Ivara Cael- Voice of the Emberwardens ]]. Ivara was meeting with the King to discuss the reopening of [[Pantheon and Phenomena/The Arcane Nexus\|The Arcane Nexus]].

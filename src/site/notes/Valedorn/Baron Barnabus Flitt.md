@@ -4,7 +4,7 @@
 
 Current Status: ALLY
 
-The youngest son of the Flitt family, Barnabus decided to move away from the family business of being majordomos to Celarith's leaders, and instead forged his own path by becoming the Baron of [[Valedorn/Willow's Rest\|Willow's Rest]]. Unlike his other fmaily memebrs, he has expressed strong opinions on how money should be used when leading a community, namely: it's there for spending. It was Barnabus who suggested that if the group could re-establish the platinum mine in [[Vermeillon\|Vermeillon]], then there would be enough resources for [[Valedorn/Willow's Rest\|Willow's Rest]] to assist in rebuilding [[Valedorn/Creekvale\|Creekvale]] entirely. 
+The youngest son of the Flitt family, Barnabus decided to move away from the family business of being majordomos to Celarith's leaders, and instead forged his own path by becoming the Baron of [[Valedorn/Willow's Rest\|Willow's Rest]]. Unlike his other fmaily memebrs, he has expressed strong opinions on how money should be used when leading a community, namely: it's there for spending. It was Barnabus who suggested that if the group could re-establish the platinum mine in [[Valedorn/Vermeillon\|Vermeillon]], then there would be enough resources for [[Valedorn/Willow's Rest\|Willow's Rest]] to assist in rebuilding [[Valedorn/Creekvale\|Creekvale]] entirely. 
 
 Much to Penn's dismay, he has revealed himself to be a devotee of Erythos (see [[Pantheon and Phenomena/Pantheon\|Pantheon]]).
 
@@ -13,4 +13,4 @@ A short, stocky human with salt and pepper hair, and the characteristic Flitt em
 
 Relations:
 [[Valedorn/Phineas Flitt\|Phineas Flitt]]
-[[Corellon Flitt\|Corellon Flitt]]
+[[Thar-Vokar/Corellon Flitt\|Corellon Flitt]]

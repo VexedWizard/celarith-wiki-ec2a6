@@ -3,6 +3,6 @@
 ---
 
 
-Nestled at the base of the Shimmering Peaks, this once prosperous town served as the last stop before [[Vermeillon\|Vermeillon]], often profiting off the miners and adventurers who went to explore the peaks and Vermeillon itself. Up until recently, though, it had fallen on hard times as the platinum mine was abandoned. It is run by [[Valedorn/Baron Barnabus Flitt\|Baron Barnabus Flitt]], and the most prominent social hub is the Carotgrapher's Flask, run by [[Maisie Teldrin\|Maisie Teldrin]]. 
+Nestled at the base of the Shimmering Peaks, this once prosperous town served as the last stop before [[Valedorn/Vermeillon\|Vermeillon]], often profiting off the miners and adventurers who went to explore the peaks and Vermeillon itself. Up until recently, though, it had fallen on hard times as the platinum mine was abandoned. It is run by [[Valedorn/Baron Barnabus Flitt\|Baron Barnabus Flitt]], and the most prominent social hub is the Carotgrapher's Flask, run by [[Valedorn/Maisie Teldrin\|Maisie Teldrin]]. 
 
 Penn and Maristela spent a week or so here while searching for [[Valedorn/Alzathorn Ionie\|Alzathorn Ionie]], as well as fighting off [[Valedorn/Philly\|Philly]] and the creations of [[Valedorn/Project Chimera\|Project Chimera]].
